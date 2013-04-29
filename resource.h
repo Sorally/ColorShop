@@ -1,0 +1,12 @@
+#define IDB_BITMAP1 100
+#define IDB_ARROWL 101
+#define IDC_PAL 102
+#define IDD_DLG1 1000
+#define IDC_EDT_HSB 1001
+#define IDC_EDT_HEX 1002
+#define IDC_EDT_RGB 1003
+#define IDC_CHK_HASH 1005
+#define IDC_STC1 1006
+#define IDC_STC2 1007
+#define IDC_STC3 1008
+#define IDC_STC4 1004
